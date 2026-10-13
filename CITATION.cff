@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "llm-lid: token-level language identification with any LLM provider"
+type: software
+authors:
+  - family-names: Oluwatuyi
+    given-names: Debby
+    affiliation: University of Sussex
+version: 0.1.0
+date-released: 2026-10-13
+license: MIT
+repository-code: "https://github.com/anuoluwatuyi/llm-lid"
+keywords:
+  - language identification
+  - code-switching
+  - large language models
+  - low-resource languages
+  - Nigerian Pidgin
